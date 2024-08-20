@@ -1,0 +1,1 @@
+D:\Magang\survey_app\android\app\src\main\kotlin\com\example\survey_app\MainActivity.kt
